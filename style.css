@@ -8,3 +8,32 @@
     text-align: center;
     margin: 30px 90px;
 }
+
+
+
+    .container {
+        background-color: rgb(0, 0, 0);
+        display: flex; /* Usa Flexbox */
+        flex-wrap: wrap;
+        flex-direction: ;
+        align-items: start; /* Allinea verticalmente al centro */
+        gap: 20px; /* Spazio tra immagine e testo */
+        font-family: Arial, sans-serif;
+        width: 400px;
+        height: 150px;
+        margin-left: 120px;
+   
+        
+    }
+  
+.container img{
+    width: 150px;
+    height: 150px;
+}
+.marco-bianchi {
+    color: aliceblue;
+}
+.dw{
+    color: aliceblue;
+    margin-bottom: 20px;
+}
